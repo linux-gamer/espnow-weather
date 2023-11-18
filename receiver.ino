@@ -15,7 +15,6 @@
 #define DHTTYPE DHT22 // DHT 22  (AM2302), AM2321
 
 // Declare pins for the display:
-#define TFT_MISO 19
 #define TFT_MOSI  3
 #define TFT_SCLK  2
 #define TFT_CS    7   // Chip select control pin
