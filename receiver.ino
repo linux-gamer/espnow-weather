@@ -31,8 +31,6 @@ const char* password = "wlan_password";
 
 WiFiUDP wifiUdp;
 NTP ntp(wifiUdp);
-
-const char * WriteAPIKey = "9PKFHUZOHA4JX84F";
  
 // Define data structure
 typedef struct temp_struct {
